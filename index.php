@@ -11,7 +11,7 @@
       <!-- Left links -->
       <div class="links">
          <!-- My Github -->
-         <a id = "githubLink"  href = "https://github.com/Arditt" > <img id = 'github' width = '25' height = '25' src = './assets/github.png'/></a>    
+         <a id = "githubLink"  href = "https://github.com/arditshaqiri" > <img id = 'github' width = '25' height = '25' src = './assets/github.png'/></a>    
          <?php 
             $links = array('Home','About','Projects','Contact'); ?>  
          <ul id = 'ul'>
