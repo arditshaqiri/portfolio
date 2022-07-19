@@ -211,8 +211,7 @@ body.light::-webkit-scrollbar {
     width: 50%;
     margin:15% 0;
 }
-.Projects
-{
+.Projects{
     width: 100%;
     margin: 5% 0;
     position: relative;
@@ -232,7 +231,7 @@ body.light::-webkit-scrollbar {
     margin: 2% 0;
 }
 .block{
-    width:25%;
+    width:22%;
     margin: 1%;
     padding:2%;
     background-color: #fff;
@@ -389,12 +388,6 @@ body::-webkit-scrollbar-thumb {
     .links{
         display: none;
     }
-    .About .about-container{
-        width: 80%;
-        margin:5% 0;
-        display: flex;
-        justify-content: center;
-    }
     .about-container .left{
         width:80%;
         margin-bottom: 5%;
@@ -409,15 +402,6 @@ body::-webkit-scrollbar-thumb {
     .right p{
         width:100%;
     }
-
-
-    .skills {
-        width: 100%;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        
-    } 
     .skills .skills-container{
         flex-direction: column;
     }
@@ -430,6 +414,7 @@ body::-webkit-scrollbar-thumb {
         width: 80%;
     }
     .block{
+        width: 30%;
         margin: 3%;
     }
 
@@ -461,24 +446,12 @@ body::-webkit-scrollbar-thumb {
     }
     .right button{
         width: 100%;
-        background-color: #353F53;
-        border-radius:5px;
-        padding: 2%;
         margin:5% 0;
-        border: 1px solid #888;
-        color:#fff;
-        cursor: pointer;
         transform: translate(0);
     }
     .contact-item{
-        background-color: #353F53;
-        border-radius: 20px;
         width: 80%;
         margin:5%;
-        padding: 20px;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
     }
 }
 @media(max-width:500px) {
@@ -506,7 +479,4 @@ body::-webkit-scrollbar-thumb {
     .Projects-container .block{
         width:75%;
     }
-
-
 }
-
