@@ -11,7 +11,7 @@
       <!-- Left links -->
       <div class="links">
          <!-- My Github -->
-         <a id = "githubLink"  href = "https://github.com/arditshaqiri" > <img id = 'github' width = '25' height = '25' src = './assets/github.png'/></a>    
+         <a id = "githubLink"  href = "https://github.com/Arditt" > <img id = 'github' width = '25' height = '25' src = './assets/github.png'/></a>    
          <?php 
             $links = array('Home','About','Projects','Contact'); ?>  
          <ul id = 'ul'>
@@ -95,7 +95,7 @@
                $repoLinks = array("Https://www.blabla.com","Https://www.blabla.com","Https://www.blabla.com","Https://www.blabla.com","Https://www.blabla.com","Https://www.blabla.com");
                $repoNames = array("Name 1","Name 2","Name 3","Name 4","Name 5","Name 6");
                $repoTitles = array("Title 1","Title 2","Title 3","Title 4","Title 5","Title 6");
-               $repoTech = array("js","android","html-css","Laravel","Android Java","React JS");
+               $repoTech = array("js","swift","html-css","Laravel","Vue JS","React JS");
                
                for($i=0;$i<count($repoLinks);$i++){
                    echo "
