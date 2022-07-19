@@ -8,6 +8,7 @@
       <title>Document</title>
    </head>
    <body >
+      <!-- Note: Dizajni ka ngjashmeri me ate demo qe e keni publikuar ne shpallje, mirpo kodi eshte i shkruar 100% nga une.-->
       <!-- Left links -->
       <div class="links">
          <!-- My Github -->
